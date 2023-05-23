@@ -1,4 +1,5 @@
 {
+    "cmake.generator" : "MinGW Makefiles",
     "files.associations": {
         "initializer_list": "cpp",
         "vector": "cpp",
