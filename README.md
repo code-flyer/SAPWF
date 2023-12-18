@@ -15,7 +15,7 @@ Windows system
 
 1. Change the parameters in the file data.cfg
 2. Get into fhe folder where the files are located and open a windows terminal 
-3.  Run the program and the feature is saved in the file names '0_TLS_sampling.rate_32.TLS_20.csv'  (for example).
+3.  Run the program and the feature is saved in the file named '0_TLS_sampling.rate_32.TLS_20.csv'  (for example).
   ```bash
     feature.exe 
   ```
